@@ -43,7 +43,8 @@ StegoVault uses the **Least Significant Bit (LSB)** technique to hide encrypted 
 ### 📦 Install Dependencies
 pip install flask pillow cryptography
 
-Clone the repo and install:
-Launch the flask app by:
-*cd stegovault*
-*python app.py*
+### Clone the repo and install
+
+### Launch the flask app by
+cd Stego-Vault
+python app.py
